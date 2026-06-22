@@ -1,0 +1,201 @@
+user_id,transaction_date,region,product_category,sale_amount,status,city,age,subscription,raw_timestamp,email,username,price,store_id
+USR_1007,2026-06-13,West,Home,177.2,Active,Los Angeles,26,Standard,2026-06-11 07:02:36,user_1@example.com,user_1,204.76,STORE_5
+USR_1007,2026-06-13,West,Home,177.2,Active,Los Angeles,26,Standard,2026-06-11 07:02:36,user_1@example.com,user_1,204.76,STORE_5
+USR_1001,2026-06-15,West,Home,412.94,,Los Angeles,46,Premium,2026-06-12 03:12:01,user_2@example.com,user_2,,STORE_4
+USR_1047,2026-06-09,West,Clothing,480.79,Active,Los Angeles,59,Standard,2026-06-08 10:26:09,user_3@example.com,user_3,185.04,STORE_5
+USR_1017,2026-06-15,East,Books,416.07,Completed,Los Angeles,46,Basic,2026-06-07 22:13:26,user_4@example.com,user_4,108.6,STORE_1
+USR_1015,2026-06-01,West,Beauty,223.39,Active,Los Angeles,38,Basic,2026-06-09 19:58:30,user_5@example.com,user_5,225.74,STORE_2
+USR_1014,2026-06-10,West,Beauty,483.08,,Los Angeles,48,Basic,2026-06-14 23:46:03,user_6@example.com,user_6,186.74,STORE_5
+USR_1008,2026-06-06,West,Home,406.02,Completed,Los Angeles,32,Basic,2026-06-12 04:33:13,user_7@example.com,user_7,69.09,STORE_3
+USR_1047,2026-06-08,East,Books,246.91,Completed,Los Angeles,20,Standard,2026-06-09 10:42:30,user_8@example.com,user_8,46.3,STORE_5
+USR_1006,2026-06-01,South,Books,368.2,,Los Angeles,42,Standard,2026-06-09 12:20:11,,user_9,220.35,STORE_2
+USR_1047,2026-06-15,West,Clothing,52.46,Active,Los Angeles,42,Standard,2026-06-06 21:49:55,user_11@example.com,user_11,78.1,STORE_1
+USR_1047,2026-06-15,West,Clothing,52.46,Active,Los Angeles,42,Standard,2026-06-06 21:49:55,user_11@example.com,user_11,78.1,STORE_1
+USR_1034,2026-06-06,East,Beauty,129.49,Pending,Los Angeles,53,Basic,2026-06-12 21:41:51,,user_12,78.21,STORE_4
+USR_1005,2026-06-15,West,Books,309.06,,Los Angeles,26,Standard,2026-06-12 08:39:30,user_13@example.com,user_13,217.75,STORE_2
+USR_1037,2026-06-14,West,Clothing,24.06,Active,Los Angeles,49,Premium,2026-06-04 07:17:35,,user_14,282.68,STORE_3
+USR_1027,2026-06-13,West,Electronics,99.1,Completed,Los Angeles,33,Standard,2026-06-05 07:19:49,user_15@example.com,user_15,,STORE_1
+USR_1002,2026-06-05,West,Home,400.94,Pending,Los Angeles,35,Standard,2026-06-05 22:13:44,user_16@example.com,user_16,263.37,STORE_2
+USR_1001,2026-06-04,West,Beauty,441.36,Active,Los Angeles,21,Basic,2026-06-12 15:20:30,user_17@example.com,user_17,184.04,STORE_3
+USR_1005,2026-06-01,South,Beauty,145.37,,Los Angeles,20,Premium,2026-06-06 17:59:59,user_18@example.com,user_18,120.57,STORE_3
+USR_1013,2026-06-04,West,Home,,Completed,Los Angeles,35,Standard,2026-06-13 23:17:18,user_19@example.com,user_19,236.22,STORE_2
+USR_1032,2026-06-10,West,Clothing,249.4,Active,Los Angeles,33,Premium,2026-06-07 12:52:22,user_21@example.com,user_21,76.12,STORE_3
+USR_1032,2026-06-10,West,Clothing,249.4,Active,Los Angeles,33,Premium,2026-06-07 12:52:22,user_21@example.com,user_21,76.12,STORE_3
+USR_1038,2026-06-02,North,Home,348.4,Pending,Los Angeles,34,Standard,2026-06-13 04:18:02,user_22@example.com,user_22,25.95,STORE_4
+USR_1001,2026-06-02,North,Clothing,250.5,Active,Los Angeles,43,Premium,2026-06-05 22:05:22,user_23@example.com,user_23,8.56,STORE_1
+USR_1035,2026-06-12,East,Clothing,55.6,Active,Los Angeles,53,Premium,2026-06-15 14:41:16,user_24@example.com,user_24,98.36,STORE_3
+USR_1012,2026-06-08,North,Clothing,348.98,Completed,Los Angeles,60,Basic,2026-06-12 15:13:12,user_25@example.com,user_25,252.5,STORE_2
+USR_1045,2026-06-14,East,Electronics,294.96,,Los Angeles,42,Standard,2026-06-14 17:17:59,user_26@example.com,user_26,166.18,STORE_2
+USR_1041,2026-06-02,North,Electronics,270.15,Active,Los Angeles,25,Premium,2026-06-09 22:17:08,user_27@example.com,user_27,143.95,STORE_1
+USR_1044,2026-06-13,South,Clothing,375.51,Active,Los Angeles,59,Premium,2026-06-02 19:47:37,user_28@example.com,user_28,26.53,STORE_3
+USR_1034,2026-06-09,East,Books,354.4,Pending,Los Angeles,43,Premium,2026-06-04 07:03:42,user_29@example.com,user_29,9.07,STORE_3
+USR_1014,2026-06-03,South,Electronics,104.37,,Los Angeles,43,Standard,2026-06-04 01:06:26,user_31@example.com,user_31,122.4,STORE_1
+USR_1014,2026-06-03,South,Electronics,104.37,,Los Angeles,43,Standard,2026-06-04 01:06:26,user_31@example.com,user_31,122.4,STORE_1
+USR_1028,2026-06-03,North,Books,272.57,,Los Angeles,17,Basic,2026-06-06 22:30:06,,user_32,215.23,STORE_1
+USR_1037,2026-06-11,West,Books,100.72,Completed,Los Angeles,37,Basic,2026-06-11 04:00:35,user_33@example.com,user_33,129.95,STORE_4
+USR_1017,2026-06-08,West,Beauty,247.26,,Los Angeles,54,Premium,2026-06-15 05:26:41,user_34@example.com,user_34,193.96,STORE_4
+USR_1000,2026-06-09,South,Clothing,488.54,Pending,Los Angeles,42,Premium,2026-06-15 15:30:41,user_35@example.com,user_35,50.04,STORE_4
+USR_1048,2026-06-03,West,Books,148.67,,Los Angeles,32,Premium,2026-06-04 09:20:18,user_36@example.com,user_36,,STORE_2
+USR_1010,2026-06-05,West,Books,105.12,Active,Los Angeles,55,Premium,2026-06-11 01:58:49,user_37@example.com,user_37,,STORE_4
+USR_1044,2026-06-09,West,Books,97.93,,Los Angeles,18,Basic,2026-06-02 20:36:14,user_38@example.com,user_38,292.42,STORE_4
+USR_1027,2026-06-14,West,Clothing,,,Los Angeles,19,Premium,2026-06-09 23:46:54,,user_39,101.39,STORE_4
+USR_1017,2026-06-07,East,Electronics,281.15,Active,Los Angeles,55,Basic,2026-06-03 13:56:53,user_41@example.com,user_41,194.73,STORE_5
+USR_1017,2026-06-07,East,Electronics,281.15,Active,Los Angeles,55,Basic,2026-06-03 13:56:53,user_41@example.com,user_41,194.73,STORE_5
+USR_1009,2026-06-04,West,Electronics,71.88,Completed,Los Angeles,40,Premium,2026-06-03 01:53:25,user_42@example.com,user_42,134.06,STORE_4
+USR_1013,2026-06-15,North,Books,250.53,Pending,Los Angeles,38,Standard,2026-06-13 15:11:59,user_43@example.com,user_43,75.4,STORE_1
+USR_1048,2026-06-09,East,Clothing,291.29,,Los Angeles,47,Premium,2026-06-12 09:56:02,,user_44,277.77,STORE_4
+USR_1021,2026-06-13,North,Clothing,225.83,,Los Angeles,58,Standard,2026-06-01 09:36:38,user_45@example.com,user_45,185.63,STORE_5
+USR_1006,2026-06-12,West,Beauty,35.17,Pending,Los Angeles,25,Premium,2026-06-02 10:18:29,user_46@example.com,user_46,,STORE_2
+USR_1005,2026-06-12,East,Books,244.09,Completed,Los Angeles,16,Premium,2026-06-11 17:33:31,user_47@example.com,user_47,199.13,STORE_2
+USR_1024,2026-06-04,North,Electronics,206.35,Active,Los Angeles,24,Basic,2026-06-15 04:54:32,user_48@example.com,user_48,8.74,STORE_4
+USR_1006,2026-06-12,North,Beauty,318.43,Completed,Los Angeles,53,Premium,2026-06-08 08:12:51,,user_49,8.35,STORE_1
+USR_1022,2026-06-07,South,Electronics,158.88,Active,Los Angeles,43,Standard,2026-06-08 20:16:45,user_51@example.com,user_51,247.64,STORE_3
+USR_1022,2026-06-07,South,Electronics,158.88,Active,Los Angeles,43,Standard,2026-06-08 20:16:45,user_51@example.com,user_51,247.64,STORE_3
+USR_1038,2026-06-11,West,Books,68.04,,Los Angeles,17,Basic,2026-06-03 00:47:21,user_52@example.com,user_52,114.7,STORE_1
+USR_1016,2026-06-11,North,Clothing,307.1,Completed,Los Angeles,23,Premium,2026-06-13 09:36:43,user_53@example.com,user_53,262.67,STORE_3
+USR_1002,2026-06-06,West,Books,120.59,Pending,Los Angeles,19,Basic,2026-06-13 06:11:39,,user_54,39.83,STORE_3
+USR_1046,2026-06-08,West,Beauty,230.75,Active,Los Angeles,30,Premium,2026-06-14 20:57:25,user_55@example.com,user_55,103.83,STORE_1
+USR_1029,2026-06-15,West,Beauty,431.48,,Los Angeles,56,Basic,2026-06-14 13:32:20,user_56@example.com,user_56,159.54,STORE_1
+USR_1034,2026-06-09,West,Beauty,159.64,Active,Los Angeles,38,Premium,2026-06-02 12:42:06,user_57@example.com,user_57,292.64,STORE_3
+USR_1007,2026-06-08,North,Home,308.72,Pending,Los Angeles,38,Premium,2026-06-03 04:30:20,user_58@example.com,,151.36,STORE_2
+USR_1024,2026-06-02,West,Books,474.32,Active,Los Angeles,39,Basic,2026-06-15 07:00:16,user_59@example.com,user_59,21.35,STORE_4
+USR_1035,2026-06-04,North,Beauty,86.96,Completed,Los Angeles,17,Basic,2026-06-05 10:19:37,user_61@example.com,user_61,233.13,STORE_1
+USR_1035,2026-06-04,North,Beauty,86.96,Completed,Los Angeles,17,Basic,2026-06-05 10:19:37,user_61@example.com,user_61,233.13,STORE_1
+USR_1018,2026-06-02,West,Books,46.78,Pending,Los Angeles,53,Basic,2026-06-12 18:00:16,user_62@example.com,user_62,203.87,STORE_5
+USR_1040,2026-06-06,West,Beauty,,Pending,Los Angeles,24,Premium,2026-06-11 11:44:15,user_63@example.com,user_63,223.53,STORE_1
+USR_1039,2026-06-01,West,Books,300.97,Pending,Los Angeles,58,Premium,2026-06-01 21:07:29,user_64@example.com,user_64,,STORE_3
+USR_1023,2026-06-10,East,Clothing,123.42,Active,Los Angeles,43,Standard,2026-06-05 05:25:43,user_65@example.com,user_65,8.62,STORE_5
+USR_1036,2026-06-09,North,Books,354.46,Pending,Los Angeles,38,Premium,2026-06-09 22:49:19,user_66@example.com,user_66,,STORE_5
+USR_1012,2026-06-04,North,Books,346.82,Pending,Los Angeles,38,Basic,2026-06-12 03:40:58,user_67@example.com,user_67,276.47,STORE_4
+USR_1045,2026-06-10,West,Home,396.04,Pending,Los Angeles,43,Basic,2026-06-05 11:39:14,user_68@example.com,user_68,288.3,STORE_1
+USR_1004,2026-06-04,East,Clothing,333.98,Completed,Los Angeles,19,Premium,2026-06-04 04:30:09,user_69@example.com,user_69,,STORE_4
+USR_1042,2026-06-02,East,Beauty,327.34,Active,Los Angeles,23,Standard,2026-06-07 22:35:58,user_71@example.com,user_71,71.23,STORE_5
+USR_1042,2026-06-02,East,Beauty,327.34,Active,Los Angeles,23,Standard,2026-06-07 22:35:58,user_71@example.com,user_71,71.23,STORE_5
+USR_1014,2026-06-12,North,Books,415.05,Completed,Los Angeles,48,Premium,2026-06-08 17:51:42,user_72@example.com,user_72,275.18,STORE_4
+USR_1049,2026-06-11,West,Clothing,91.3,Pending,Los Angeles,38,Basic,2026-06-14 06:48:15,user_73@example.com,user_73,248.67,STORE_2
+USR_1018,2026-06-01,South,Home,376.99,Pending,Los Angeles,40,Basic,2026-06-11 19:55:50,user_74@example.com,user_74,40.22,STORE_1
+USR_1005,2026-06-04,North,Books,151.42,Completed,Los Angeles,35,Premium,2026-06-02 16:28:33,user_75@example.com,user_75,20.54,STORE_1
+USR_1014,2026-06-02,West,Electronics,347.45,Pending,Los Angeles,56,Standard,2026-06-12 11:04:58,user_76@example.com,user_76,157.15,STORE_3
+USR_1006,2026-06-15,West,Home,471.91,Active,Los Angeles,32,Premium,2026-06-10 03:03:53,user_77@example.com,user_77,,STORE_2
+USR_1024,2026-06-01,South,Clothing,251.96,Active,Los Angeles,30,Premium,2026-06-09 16:12:36,,user_78,263.71,STORE_2
+USR_1017,2026-06-14,North,Home,29.53,Pending,Los Angeles,22,Premium,2026-06-09 04:10:20,user_79@example.com,user_79,233.19,STORE_4
+USR_1040,2026-06-02,West,Home,54.75,Completed,Los Angeles,26,Basic,2026-06-11 06:45:37,user_81@example.com,user_81,113.83,STORE_5
+USR_1040,2026-06-02,West,Home,54.75,Completed,Los Angeles,26,Basic,2026-06-11 06:45:37,user_81@example.com,user_81,113.83,STORE_5
+USR_1023,2026-06-09,North,Beauty,419.62,Pending,Los Angeles,46,Basic,2026-06-08 02:57:32,user_82@example.com,user_82,236.43,STORE_3
+USR_1010,2026-06-04,East,Electronics,475.89,Completed,Los Angeles,48,Premium,2026-06-08 01:29:08,user_83@example.com,user_83,76.56,STORE_3
+USR_1023,2026-06-05,North,Clothing,339.42,Active,Los Angeles,39,Standard,2026-06-09 13:29:36,user_84@example.com,user_84,291.7,STORE_3
+USR_1022,2026-06-11,East,Clothing,29.71,Pending,Los Angeles,50,Premium,2026-06-01 17:29:43,user_85@example.com,user_85,233.89,STORE_2
+USR_1013,2026-06-08,South,Clothing,240.55,Completed,Los Angeles,22,Basic,2026-06-13 09:46:01,user_86@example.com,user_86,166.23,STORE_1
+USR_1042,2026-06-04,West,Books,458.88,Active,Los Angeles,31,Basic,2026-06-07 08:52:00,user_87@example.com,user_87,49.42,STORE_1
+USR_1017,2026-06-09,South,Clothing,296.81,Pending,Los Angeles,31,Standard,2026-06-12 06:37:04,user_88@example.com,user_88,12.05,STORE_4
+USR_1044,2026-06-03,West,Clothing,250.95,,Los Angeles,60,Premium,2026-06-01 13:22:44,user_89@example.com,user_89,192.6,STORE_5
+USR_1041,2026-06-15,West,Books,338.37,Active,Los Angeles,28,Basic,2026-06-15 02:59:30,user_91@example.com,user_91,228.88,STORE_4
+USR_1041,2026-06-15,West,Books,338.37,Active,Los Angeles,28,Basic,2026-06-15 02:59:30,user_91@example.com,user_91,228.88,STORE_4
+USR_1004,2026-06-15,West,Books,171.6,,Los Angeles,54,Premium,2026-06-01 09:26:11,user_92@example.com,user_92,222.73,STORE_2
+USR_1038,2026-06-10,East,Home,151.23,,Los Angeles,33,Premium,2026-06-13 04:49:41,user_93@example.com,user_93,65.53,STORE_1
+USR_1040,2026-06-10,West,Beauty,408.65,Completed,Los Angeles,59,Standard,2026-06-12 20:26:23,user_94@example.com,user_94,128.85,STORE_3
+USR_1010,2026-06-08,West,Books,232.86,Active,Los Angeles,46,Standard,2026-06-15 12:28:55,user_95@example.com,user_95,291.9,STORE_1
+USR_1034,2026-06-04,North,Books,168.4,,Los Angeles,27,Standard,2026-06-15 12:24:05,user_96@example.com,user_96,87.55,STORE_4
+USR_1046,2026-06-13,West,Electronics,208.05,Pending,Los Angeles,22,Premium,2026-06-11 21:55:34,user_97@example.com,user_97,,STORE_1
+USR_1015,2026-06-08,West,Clothing,494.18,Active,Los Angeles,23,Premium,2026-06-03 20:55:22,user_98@example.com,user_98,254.42,STORE_3
+USR_1010,2026-06-13,East,Books,275.87,Completed,Los Angeles,19,Standard,2026-06-02 05:34:25,user_99@example.com,user_99,269.2,STORE_5
+USR_1024,2026-06-04,East,Beauty,380.66,Active,Los Angeles,26,Basic,2026-06-14 00:48:01,user_101@example.com,user_101,154.1,STORE_2
+USR_1024,2026-06-04,East,Beauty,380.66,Active,Los Angeles,26,Basic,2026-06-14 00:48:01,user_101@example.com,user_101,154.1,STORE_2
+USR_1017,2026-06-02,West,Electronics,382.4,Active,Los Angeles,60,Premium,2026-06-05 14:43:46,user_102@example.com,user_102,121.33,STORE_1
+USR_1040,2026-06-02,North,Beauty,279.12,,Los Angeles,43,Basic,2026-06-09 13:34:24,user_103@example.com,user_103,23.37,STORE_1
+USR_1044,2026-06-11,North,Books,224.68,,Los Angeles,20,Premium,2026-06-14 07:15:29,user_104@example.com,user_104,43.56,STORE_2
+USR_1035,2026-06-07,West,Books,69.5,,Los Angeles,58,Standard,2026-06-06 04:17:12,user_105@example.com,user_105,256.02,STORE_2
+USR_1014,2026-06-06,North,Electronics,308.35,Active,Los Angeles,35,Premium,2026-06-15 23:48:07,user_106@example.com,user_106,120.92,STORE_3
+USR_1043,2026-06-07,East,Home,87.61,,Los Angeles,57,Premium,2026-06-01 21:26:39,user_107@example.com,user_107,101.24,STORE_1
+USR_1020,2026-06-07,East,Home,280.6,,Los Angeles,37,Premium,2026-06-13 00:15:13,,user_108,73.92,STORE_4
+USR_1049,2026-06-08,West,Books,496.21,Active,Los Angeles,60,Basic,2026-06-02 03:38:02,user_109@example.com,user_109,45.15,STORE_1
+USR_1003,2026-06-12,West,Beauty,417.75,Completed,Los Angeles,50,Basic,2026-06-14 01:15:47,user_111@example.com,user_111,137.62,STORE_4
+USR_1003,2026-06-12,West,Beauty,417.75,Completed,Phoenix,50,Basic,2026-06-14 01:15:47,user_111@example.com,user_111,137.62,STORE_4
+USR_1014,2026-06-01,South,Beauty,361.14,Pending,Los Angeles,49,Standard,2026-06-01 12:28:14,user_112@example.com,user_112,40.62,STORE_4
+USR_1002,2026-06-11,West,Beauty,143.98,Active,New York,33,Standard,2026-06-09 06:48:55,user_113@example.com,user_113,232.25,STORE_4
+USR_1020,2026-06-11,East,Clothing,490.32,Pending,San Francisco,34,Basic,2026-06-13 01:08:32,,user_114,141.69,STORE_3
+USR_1025,2026-06-11,East,Books,280.12,Completed,Houston,25,Premium,2026-06-05 07:52:58,user_115@example.com,user_115,31.67,STORE_1
+USR_1017,2026-06-02,East,Clothing,461.72,Completed,San Francisco,60,Standard,2026-06-12 18:20:36,user_116@example.com,user_116,94.74,STORE_5
+USR_1004,2026-06-01,East,Home,440.87,,Los Angeles,60,Premium,2026-06-10 21:52:20,user_117@example.com,user_117,182.97,STORE_4
+USR_1013,2026-06-07,South,Books,145.36,Completed,Chicago,59,Basic,2026-06-04 09:56:09,user_118@example.com,user_118,257.69,STORE_2
+USR_1036,2026-06-12,West,Books,213.32,,Houston,55,Premium,2026-06-11 16:14:26,user_119@example.com,user_119,214.79,STORE_3
+USR_1020,2026-06-13,North,Books,148.59,Active,Phoenix,38,Premium,2026-06-10 23:58:11,user_121@example.com,user_121,,STORE_3
+USR_1020,2026-06-13,North,Books,148.59,Active,Phoenix,38,Premium,2026-06-10 23:58:11,user_121@example.com,user_121,,STORE_3
+USR_1013,2026-06-14,South,Home,297.6,Active,Houston,47,Standard,2026-06-11 21:27:35,user_122@example.com,user_122,246.93,STORE_2
+USR_1041,2026-06-02,East,Books,249.92,Pending,Houston,29,Premium,2026-06-08 01:22:41,user_123@example.com,user_123,285.87,STORE_4
+USR_1031,2026-06-04,North,Clothing,273.9,,Houston,22,Standard,2026-06-11 12:50:33,user_124@example.com,user_124,169.01,STORE_1
+USR_1025,2026-06-04,East,Books,280.44,,Los Angeles,27,Standard,2026-06-06 22:26:26,user_125@example.com,user_125,32.94,STORE_3
+USR_1041,2026-06-04,West,Clothing,233.12,Pending,Los Angeles,23,Standard,2026-06-03 09:24:11,user_126@example.com,user_126,239.17,STORE_4
+USR_1029,2026-06-09,South,Beauty,102.44,,New York,30,Basic,2026-06-13 17:30:15,user_127@example.com,user_127,23.19,STORE_4
+USR_1009,2026-06-08,West,Beauty,290.18,Completed,Chicago,46,Basic,2026-06-14 07:19:54,user_128@example.com,user_128,70.57,STORE_3
+USR_1016,2026-06-03,South,Electronics,390.02,,New York,16,Basic,2026-06-12 04:51:29,user_129@example.com,user_129,123.17,STORE_2
+USR_1015,2026-06-03,East,Beauty,355.56,,Chicago,50,Premium,2026-06-07 17:33:08,,user_131,,STORE_5
+USR_1015,2026-06-03,East,Beauty,355.56,,Chicago,50,Premium,2026-06-07 17:33:08,,user_131,,STORE_5
+USR_1047,2026-06-05,South,Beauty,199.18,Active,Los Angeles,51,Premium,2026-06-07 07:16:13,user_132@example.com,user_132,275.64,STORE_1
+USR_1035,2026-06-08,North,Electronics,412.17,Completed,Houston,38,Standard,2026-06-06 20:05:59,user_133@example.com,user_133,,STORE_2
+USR_1034,2026-06-04,North,Electronics,252.71,,Los Angeles,44,Premium,2026-06-08 11:05:34,user_134@example.com,user_134,63.34,STORE_1
+USR_1016,2026-06-14,East,Books,,Completed,New York,50,Basic,2026-06-12 06:03:17,user_135@example.com,user_135,243.74,STORE_1
+USR_1047,2026-06-15,East,Clothing,299.19,Completed,Los Angeles,23,Basic,2026-06-07 21:38:38,user_136@example.com,user_136,,STORE_3
+USR_1037,2026-06-02,West,Books,438.35,Completed,Chicago,54,Standard,2026-06-01 02:12:51,user_137@example.com,user_137,243.62,STORE_5
+USR_1027,2026-06-08,East,Clothing,267.72,Pending,Houston,20,Standard,2026-06-13 18:46:42,user_138@example.com,user_138,282.97,STORE_4
+USR_1037,2026-06-13,South,Electronics,364.0,,Los Angeles,19,Premium,2026-06-09 06:30:13,user_139@example.com,user_139,,STORE_5
+USR_1023,2026-06-14,North,Books,240.05,Active,New York,40,Basic,2026-06-01 06:59:12,user_141@example.com,user_141,151.36,STORE_5
+USR_1023,2026-06-14,North,Books,240.05,Active,New York,40,Basic,2026-06-01 06:59:12,user_141@example.com,user_141,151.36,STORE_5
+USR_1014,2026-06-09,West,Home,175.9,Active,New York,60,Basic,2026-06-12 03:47:48,user_142@example.com,user_142,130.87,STORE_1
+USR_1008,2026-06-02,North,Clothing,328.42,Active,New York,45,Basic,2026-06-08 07:44:38,user_143@example.com,user_143,272.95,STORE_4
+USR_1032,2026-06-01,North,Books,427.65,,San Francisco,48,Basic,2026-06-12 06:25:58,user_144@example.com,user_144,136.57,STORE_5
+USR_1031,2026-06-11,West,Home,196.2,Active,Los Angeles,41,Standard,2026-06-04 17:20:49,user_145@example.com,user_145,186.16,STORE_4
+USR_1005,2026-06-09,South,Home,362.17,Completed,Chicago,41,Premium,2026-06-05 12:29:34,user_146@example.com,user_146,195.95,STORE_5
+USR_1048,2026-06-14,West,Books,437.47,Pending,Houston,51,Premium,2026-06-11 11:19:16,user_147@example.com,user_147,265.42,STORE_4
+USR_1003,2026-06-01,North,Home,,Active,Los Angeles,19,Standard,2026-06-06 16:56:31,user_148@example.com,user_148,30.88,STORE_5
+USR_1007,2026-06-02,West,Books,319.27,Completed,Houston,23,Premium,2026-06-08 03:51:46,,user_149,128.67,STORE_2
+USR_1009,2026-06-15,West,Home,498.74,Active,New York,35,Basic,2026-06-08 10:58:13,user_150@example.com,user_150,240.17,STORE_4
+USR_1040,2026-06-13,North,Electronics,222.65,,New York,56,Standard,2026-06-06 10:26:02,user_151@example.com,user_151,298.26,STORE_3
+USR_1010,2026-06-14,East,Books,320.54,Completed,Los Angeles,19,Standard,2026-06-10 07:47:09,user_152@example.com,user_152,10.76,STORE_1
+USR_1050,2026-06-04,West,Electronics,227.4,,San Francisco,43,Basic,2026-06-01 08:35:59,user_153@example.com,user_153,215.44,STORE_4
+USR_1043,2026-06-03,North,Beauty,452.68,Active,Houston,44,Premium,2026-06-10 18:46:26,user_154@example.com,user_154,235.52,STORE_1
+USR_1027,2026-06-07,West,Electronics,,Completed,Chicago,58,Standard,2026-06-05 04:12:21,user_155@example.com,,171.87,STORE_5
+USR_1038,2026-06-08,West,Home,153.75,Completed,New York,48,Premium,2026-06-04 12:36:53,user_156@example.com,user_156,84.78,STORE_5
+USR_1004,2026-06-08,West,Clothing,81.33,Completed,Los Angeles,37,Basic,2026-06-04 15:35:41,user_157@example.com,user_157,,STORE_5
+USR_1024,2026-06-04,South,Electronics,287.3,Active,Phoenix,23,Premium,2026-06-11 10:16:48,user_158@example.com,,13.64,STORE_5
+USR_1024,2026-06-14,North,Electronics,93.29,Pending,New York,50,Standard,2026-06-14 15:46:41,user_159@example.com,user_159,87.88,STORE_5
+USR_1038,2026-06-07,North,Electronics,436.71,Pending,Houston,55,Standard,2026-06-12 15:29:10,user_160@example.com,user_160,144.15,STORE_2
+USR_1029,2026-06-15,South,Clothing,128.01,,New York,52,Premium,2026-06-12 11:10:08,user_161@example.com,user_161,177.28,STORE_1
+USR_1033,2026-06-01,West,Clothing,80.13,Pending,Phoenix,26,Standard,2026-06-12 17:31:11,user_162@example.com,user_162,52.09,STORE_4
+USR_1016,2026-06-03,West,Electronics,134.45,Active,Los Angeles,23,Premium,2026-06-15 17:41:03,user_163@example.com,user_163,76.14,STORE_2
+USR_1035,2026-06-07,West,Beauty,14.6,Completed,New York,42,Standard,2026-06-09 01:53:54,,user_164,238.41,STORE_2
+USR_1000,2026-06-01,South,Clothing,451.59,Completed,Los Angeles,47,Standard,2026-06-02 21:03:48,user_165@example.com,user_165,230.39,STORE_2
+USR_1043,2026-06-07,West,Clothing,87.41,Active,Los Angeles,18,Standard,2026-06-01 13:08:53,user_166@example.com,user_166,174.83,STORE_2
+USR_1046,2026-06-05,East,Clothing,179.33,Completed,New York,22,Premium,2026-06-11 07:04:45,user_167@example.com,user_167,119.58,STORE_2
+USR_1007,2026-06-15,North,Books,323.08,Pending,Chicago,48,Standard,2026-06-03 00:13:32,user_168@example.com,user_168,297.5,STORE_1
+USR_1043,2026-06-13,West,Electronics,132.55,,Los Angeles,24,Standard,2026-06-08 11:03:39,user_169@example.com,user_169,74.78,STORE_4
+USR_1034,2026-06-13,South,Beauty,107.62,Active,Phoenix,34,Premium,2026-06-11 21:59:39,user_170@example.com,user_170,222.74,STORE_1
+USR_1048,2026-06-08,West,Clothing,246.77,Completed,Phoenix,25,Premium,2026-06-15 15:42:31,user_171@example.com,user_171,179.51,STORE_4
+USR_1017,2026-06-05,West,Books,290.24,Active,Houston,25,Basic,2026-06-01 00:34:35,,user_172,108.75,STORE_2
+USR_1049,2026-06-07,West,Home,496.42,Pending,New York,35,Premium,2026-06-07 00:01:33,user_173@example.com,user_173,46.92,STORE_2
+USR_1041,2026-06-12,East,Home,489.19,Completed,Chicago,60,Premium,2026-06-12 08:34:18,user_174@example.com,user_174,251.83,STORE_5
+USR_1021,2026-06-12,North,Clothing,144.5,Completed,New York,29,Standard,2026-06-01 16:52:44,,user_175,291.26,STORE_3
+USR_1007,2026-06-13,South,Beauty,346.04,Completed,New York,37,Basic,2026-06-11 13:51:58,,user_176,56.79,STORE_3
+USR_1018,2026-06-09,West,Beauty,34.03,Completed,San Francisco,48,Premium,2026-06-03 03:58:06,user_177@example.com,user_177,,STORE_1
+USR_1027,2026-06-11,North,Electronics,253.4,Active,New York,33,Standard,2026-06-09 04:15:12,,user_178,,STORE_1
+USR_1010,2026-06-12,West,Clothing,150.24,Pending,San Francisco,20,Premium,2026-06-10 16:16:52,user_179@example.com,user_179,10.88,STORE_4
+USR_1029,2026-06-08,North,Home,307.46,Pending,Los Angeles,31,Standard,2026-06-06 08:50:25,user_180@example.com,user_180,102.86,STORE_5
+USR_1000,2026-06-03,West,Electronics,321.94,,Los Angeles,27,Standard,2026-06-02 11:25:29,user_181@example.com,user_181,242.9,STORE_4
+USR_1046,2026-06-04,North,Beauty,342.1,Active,San Francisco,55,Standard,2026-06-10 07:44:14,user_182@example.com,user_182,57.35,STORE_5
+USR_1046,2026-06-05,West,Electronics,333.0,Pending,San Francisco,50,Basic,2026-06-05 21:52:54,user_183@example.com,user_183,261.12,STORE_3
+USR_1016,2026-06-04,North,Home,317.84,Active,San Francisco,32,Standard,2026-06-02 20:54:41,user_184@example.com,user_184,,STORE_3
+USR_1032,2026-06-01,South,Beauty,326.71,Active,Los Angeles,23,Premium,2026-06-13 01:05:25,user_185@example.com,user_185,212.89,STORE_5
+USR_1048,2026-06-10,North,Books,226.0,Pending,New York,55,Premium,2026-06-07 12:35:30,user_186@example.com,user_186,37.72,STORE_4
+USR_1011,2026-06-12,South,Books,368.86,,Houston,34,Standard,2026-06-01 20:00:44,user_187@example.com,,112.64,STORE_1
+USR_1032,2026-06-09,North,Clothing,154.6,,Los Angeles,54,Standard,2026-06-03 02:31:54,user_188@example.com,user_188,,STORE_5
+USR_1006,2026-06-01,West,Electronics,96.06,,Los Angeles,49,Standard,2026-06-07 20:50:21,user_189@example.com,user_189,200.33,STORE_5
+USR_1040,2026-06-12,East,Beauty,274.31,Completed,Chicago,20,Basic,2026-06-10 03:57:33,user_190@example.com,user_190,104.29,STORE_5
+USR_1019,2026-06-06,East,Clothing,270.12,Pending,Phoenix,47,Standard,2026-06-15 01:14:13,user_191@example.com,user_191,292.88,STORE_4
+USR_1040,2026-06-01,South,Electronics,416.93,Completed,Phoenix,56,Basic,2026-06-15 22:56:36,user_192@example.com,user_192,133.88,STORE_1
+USR_1032,2026-06-01,South,Home,414.1,Completed,New York,25,Standard,2026-06-08 08:02:59,user_193@example.com,user_193,148.72,STORE_4
+USR_1038,2026-06-10,East,Beauty,405.18,Completed,Los Angeles,52,Premium,2026-06-02 21:59:17,user_194@example.com,user_194,213.62,STORE_2
+USR_1012,2026-06-08,West,Electronics,175.97,Active,New York,52,Basic,2026-06-15 17:36:42,user_195@example.com,user_195,267.43,STORE_2
+USR_1009,2026-06-09,West,Beauty,481.82,Active,Chicago,24,Standard,2026-06-01 05:59:54,user_196@example.com,user_196,110.26,STORE_5
+USR_1023,2026-06-15,North,Electronics,483.59,Pending,Chicago,25,Standard,2026-06-06 00:13:37,user_197@example.com,user_197,245.26,STORE_5
+USR_1048,2026-06-14,South,Home,364.87,Pending,Houston,57,Standard,2026-06-03 22:52:25,,user_198,221.53,STORE_5
+USR_1010,2026-06-09,West,Beauty,483.96,Active,Houston,54,Standard,2026-06-15 02:19:10,user_199@example.com,user_199,57.42,STORE_1
