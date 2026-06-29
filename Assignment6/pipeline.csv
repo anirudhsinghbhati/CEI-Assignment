@@ -1,0 +1,6 @@
+user_id,product_id,old_name,category,price,base_price,status,amount,region,priority,final_price
+101,P001,Laptop,Electronics,1200.5,1200.5,Completed,1500,North,High,1416.59
+102,P002,Smartphone,Electronics,800.0,800.0,Pending,900,South,Medium,944.0
+,P003,Headphones,Electronics,150.0,150.0,Completed,1100,North,Low,177.0
+106,P006,Trimmer,Electronics,45.5,45.5,Completed,2000,West,High,53.69
+107,P007,Smart Watch,Electronics,250.0,250.0,Completed,1300,North,High,295.0

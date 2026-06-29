@@ -1,0 +1,9 @@
+user_id,product_id,old_name,category,price,base_price,status,amount,region,priority
+101,P001,Laptop,Electronics,1200.50,1200.50,Completed,1500,North,High
+102,P002,Smartphone,Electronics,800.00,800.00,Pending,900,South,Medium
+,P003,Headphones,Electronics,150.00,150.00,Completed,1100,North,Low
+104,P004,T-Shirt,Apparel,25.00,25.00,Completed,50,East,Low
+105,P005,Coffee Maker,Home,99.99,99.99,Cancelled,120,West,High
+106,P006,Trimmer,Electronics,45.50,45.50,Completed,2000,West,High
+107,P007,Smart Watch,Electronics,250.00,250.00,Completed,1300,North,High
+,P008,Running Shoes,Sports,85.00,85.00,Pending,85,South,Low
