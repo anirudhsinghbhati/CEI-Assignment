@@ -1,0 +1,37 @@
+============================================================
+             DATA CLEANING PIPELINE REPORT
+============================================================
+Timestamp: 2026-07-09 10:43:59
+
+1. Duplicates Removed:
+   - customers: 0 duplicates
+   - products: 0 duplicates
+   - orders: 0 duplicates
+   - order_items: 0 duplicates
+
+2. Orders NULL Customer IDs Removed: 43
+3. Orders Date Formats Fixed: 54
+4. Orders Future Date Removed: 0
+5. Order Items Orphans Removed: 124
+6. Order Items Invalid Discounts Removed: 0
+7. Order Items Zero Quantities Removed: 0
+
+8. Invalid Emails Found (Count: 11):
+   - Customer ID: CUST00019 | Name: Diana Roy | Email: diana.roy43example.com
+   - Customer ID: CUST00027 | Name: James Davis | Email: james.davis90gmail.com
+   - Customer ID: CUST00035 | Name: Diana Martin | Email: diana.martin59hotmail.com
+   - Customer ID: CUST00085 | Name: Alice Lee | Email: alice.lee79@
+   - Customer ID: CUST00151 | Name: Kevin White | Email: kevin.white97gmail.com
+   - Customer ID: CUST00234 | Name: Olivia Lewis | Email: olivia.lewis75@
+   - Customer ID: CUST00310 | Name: Ian Davis | Email: ian.davis59yahoo.com
+   - Customer ID: CUST00352 | Name: Sarah Smith | Email: sarah.smith80outlook.com
+   - Customer ID: CUST00442 | Name: Diana Brown | Email: diana.brown27@
+   - Customer ID: CUST00491 | Name: Ian Roy | Email: ian.roy36@
+   - Customer ID: CUST00500 | Name: Jane Thomas | Email: jane.thomas21hotmail.com
+
+Summary of Exported Clean Datasets:
+   - customers_clean.csv: 600 rows
+   - products_clean.csv: 500 rows
+   - orders_clean.csv: 757 rows
+   - order_items_clean.csv: 1886 rows
+============================================================
